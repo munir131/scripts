@@ -1,4 +1,5 @@
 #!/bin/zsh
+shopt -s expand_aliases
 alias po="kubectl get po -o wide"
 alias k=kubectl
 alias kc=kubectl
