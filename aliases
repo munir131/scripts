@@ -1,4 +1,4 @@
 #!/bin/zsh
-echo "alias po=\"kubectl get po -o wide\""
-echo "alias k=kubectl"
-echo "alias kc=kubectl"
+alias po="kubectl get po -o wide"
+alias k=kubectl
+alias kc=kubectl
